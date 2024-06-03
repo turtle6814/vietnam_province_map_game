@@ -24,7 +24,7 @@ The "Vietnam Map Game" project creates a visual representation of Vietnam's prov
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/vietnam-map-game.git
+    git clone https://github.com/turtle6814/vietnam-map-game.git
     cd vietnam-map-game
     ```
 
