@@ -8,7 +8,6 @@ This project uses Python's Turtle graphics to display a map of Vietnam and mark 
 - [Requirements](#requirements)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
-- [Educational Content](#educational-content)
 
 
 ## Project Description
