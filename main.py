@@ -18,10 +18,6 @@ while len(guess_provinces) < 63:
                                     prompt="What's another province's name?").title()
 
     if answer_province == "Exit":
-        missing_province = []
-        for province in all_provinces:
-            if province not in guess_provinces:
-                missing_province.append(province)
         break
     if answer_province in all_provinces:
         guess_provinces.append(answer_province)
